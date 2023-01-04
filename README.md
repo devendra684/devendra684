@@ -5,12 +5,12 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=435&lines=Full+Stack+Web+Developer;Welcome+to+My+profile"/>
 </div>
  
-<!--  <div align="right"> -->
 
-<img style="padding-top: 300px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="350" width="400px" align="right" > <br>
-<!--  </div> -->
 
-## 💫 About Me:
+<!-- ## 💫 About Me: </h4> -->
+<h1>  💫 About Me: </h1>
+<img style="margin-top: 300px;" class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="350" width="400px" align="right" > <br>
+
 - **An Enthusiastic Full-Stack Web Developer who's always willing to learning new things and work across technology and domains.**
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> I’m currently learning **Full Stack Web Development**
 
