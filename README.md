@@ -1,30 +1,29 @@
 
-<img width=100% title="Devendra Singh" alt="DevendraSingh" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi👋,I'm_Devendra_Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Devendra Singh" id="top" alt="DevendraSingh" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi+👋,+I'm+Devendra+Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-
-
-<!--   <p align="center">
-  <a href="https://github.com/devendra684"><img src="https://readme-typing-svg.herokuapp.com/?
-    lines=🔗%20Software%20Engineer;
-   🌐%20Dynamic%20Web%20Designer;
-   👨‍💻%20Fullstack%20Web%20Developer;
-   🔰%20Always%20learning%20new%20tech
-    &font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p> -->
-  
+ <div align="center" >
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=435&lines=Full+Stack+Web+Developer;Welcome+to+My+profile"/>
+</div>
  
- 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" height="350" width="380px" align="right"> <br>
+<!--  <div align="right"> -->
 
-- 🌱 I’m currently learning **HTML, CSS, JS, React, MERN**
+<img style="padding-top: 300px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="350" width="400px" align="right" > <br>
+<!--  </div> -->
 
-- 👨‍💻 All of my projects are available at [https://devendra684.github.io](https://devendra684.github.io)
+## 💫 About Me:
+- **An Enthusiastic Full-Stack Web Developer who's always willing to learning new things and work across technology and domains.**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **HTML, CSS, JS, React, MERN**
+- 👨‍💻  Want to know more about **me/my projects** visit at <a href="https://devendra684.github.io/"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
+<!-- - [https://devendra684.github.io](https://devendra684.github.io) -->
 
-- 📫 How to reach me **devendra.singh248124@gmail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"  align="center"/> Ask me about **tech related, I am happy to help**
 
-- ⚡ Fun fact **learning with fun**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Reach me on **devendra.singh248124@gmail.com**
+- <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="32" align="center">Connect with me: <a href="https://www.linkedin.com/in/devendrasingh684" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20"  align="center" /></a>
+
+- ⚡  **Learning with fun**
 
 
 <h4 align="left" ><br>
@@ -38,6 +37,7 @@
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code> 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code> 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code> 
+<!--  <code> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </code> -->
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/></code> 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" ></code> 
  <code><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40"/></code>
@@ -47,8 +47,8 @@
  <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cy" width="40"/></code>
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"/></code>
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/></code>
- <code><img src="imgs/mysql.png" width="40"/></code>
- <code><img src="imgs/github.png" width="40"/></code>
+  <code><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="mysql" /></code>
+  <code><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="40" alt="GitHub" /></code>
  <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" /></code>
 </div>
  </br>
@@ -85,10 +85,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=devendra684" alt="devendra684" width="80%"/>
   </a> 
 </p>
-<br />
-  
 
-<h2 align="center"> 
+<!-- <h2 align="center"> 
  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> 
  Connect with me: 
  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center">
@@ -100,10 +98,15 @@
  <a href="https://www.github.com/devendra684" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a>
 <a href="https://devendra684.github.io/"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
+</p> -->
 
 
 
 <img width=100% title="devendra684" alt="devendra684"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
-<h3 align="center">👩‍🚀 🚀 Thank You for giving your valuable time 😄 to view my GitHub Profile 👩‍🚀 🚀</h3>
+<div>
+<h3 align="center">
+<!--   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> -->
+  🚀 👩‍🚀 Thank You for giving your valuable time 😄 to view my GitHub Profile 👩‍🚀 🚀 </h3>
+<!--   <a href="#top" align="center"> 🔝</a> -->
+</div>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
