@@ -2,10 +2,10 @@
 <img width=100% title="Devendra Singh" id="top" alt="DevendraSingh" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi+👋,+I'm+Devendra+Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
  <div align="center" >
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=435&lines=Full+Stack+Web+Developer;Welcome+to+My+profile"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=465&lines=Full+Stack+Web+Developer;A+Passionate+Web+Developer"/>
 </div>
  
-
+ 
 
 <!-- ## 💫 About Me: </h4> -->
 <h1>  💫 About Me: </h1>
@@ -38,18 +38,23 @@
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code> 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code> 
 <!--  <code> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </code> -->
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/></code> 
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" ></code> 
- <code><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40"/></code>
+ <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40"/></code> 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40"/></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" ></code> 
+ <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="nextjs" width="40"/></code>
+ <code><img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="chakra-ui" width="40" /></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/></code>
  </br></br>
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/></code>
  <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cy" width="40"/></code>
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"/></code>
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/></code>
   <code><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="mysql" /></code>
-  <code><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="40" alt="GitHub" /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" alt="GitHub" /></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" /></code>
+ <code><img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="vercel" width="40" /></code>
+ <code><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" /></code>
  <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" /></code>
+
 </div>
  </br>
  
@@ -59,8 +64,6 @@
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 </h2>
 
- 
- 
  <div align="center">
 <p>
   <img  width="38.25%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devendra684&show_icons=true&locale=en&layout=compact"  alt="devendra684" />
@@ -75,9 +78,11 @@
 </div>
  
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devendra684&label=Visitors&color=0e75b6&style=flat" alt="devendra684" /> <img src="https://img.shields.io/github/followers/devendra684?label=Followers&style=flat&color=0e75b6" alt="devendra684"/>
+  <img src="https://komarev.com/ghpvc/?username=devendra684&label=Visitors&color=0e75b6&style=flat" alt="devendra684" /> 
+ <img src="https://img.shields.io/github/followers/devendra684?label=Followers&style=flat&color=0e75b6" alt="devendra684"/>
  <a href="https://github.com/devendra684?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devendra684"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devendra684"/>
+ </a>
  </p>
  
 <p align="center"> 
