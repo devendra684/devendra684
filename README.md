@@ -92,9 +92,9 @@
 </p>
 
 <!-- <h2 align="center"> 
- <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> 
+ <img src='https://raw.githubusercontent.com/devendra684/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> 
  Connect with me: 
- <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center">
+ <img src='https://raw.githubusercontent.com/devendra684/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center">
 </h2>
 
 <p align="center">
