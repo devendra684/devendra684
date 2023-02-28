@@ -41,14 +41,14 @@
  <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40"/></code> 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40"/></code>
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" ></code> 
- <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="nextjs" width="40"/></code>
+<!--  <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="nextjs" width="40"/></code> -->
  <code><img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="chakra-ui" width="40" /></code>
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/></code>
+<!--  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/></code> -->
  </br></br>
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/></code>
+<!--  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/></code> -->
  <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cy" width="40"/></code>
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"/></code>
-  <code><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="mysql" /></code>
+<!--   <code><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="mysql" /></code> -->
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" alt="GitHub" /></code>
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" /></code>
  <code><img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="vercel" width="40" /></code>
