@@ -9,12 +9,13 @@
 <img style="margin-top: 300px;" class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="350" width="400px" align="right" > <br>
 
 - **An Enthusiastic Software Development Engineer in Test (SDET) dedicated to quality and reliability through effective testing and automation. Passionate about problem-solving. Committed to continuous learning and staying current with industry trends.**
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> I’m currently learning **Software Development Engineer in Test**
+<!-- - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> I’m currently learning **SDET** -->
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> I’m currently learning.
 
 - 👨‍💻  Want to know more about **me/my projects** visit at <a href="https://devendra684.github.io/"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
 <!-- - [https://devendra684.github.io](https://devendra684.github.io) -->
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"  align="center"/> Ask me about **Javascript, Manual Testing, Cypress, Potman, Selenium, Appium** I am happy to help.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"  align="center"/> Ask me about **Javascript, Manual Testing, Cypress, Potman, Selenium, Appium.** I am happy to help.
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Reach me on **devendra.singh248124@gmail.com**
 - <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://devendra684.github.io/static/media/Devendra_Singh_Resume.5d244577b8fb9f102cb3.pdf" rel="nofollow">Resume</a></p>
