@@ -18,7 +18,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"  align="center"/> Ask me about **Javascript, Manual Testing, Cypress, Potman, Selenium, Appium.** I am happy to help.
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Reach me on **devendra.singh248124@gmail.com**
-- <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://devendra684.github.io/static/media/Devendra_Singh_Resume.5d244577b8fb9f102cb3.pdf" rel="nofollow">Resume</a></p>
+- <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://drive.google.com/file/d/1feeFeZZ5UZhCp0lsoRfrPLF3l1XfL-Tw/view?usp=share_link" rel="nofollow">Resume</a></p>
 - <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="32" align="center">Connect with me: <a href="https://www.linkedin.com/in/devendrasingh684" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20"  align="center" /></a>
 
