@@ -1,7 +1,7 @@
 <img width=100% title="Devendra Singh" id="top" alt="DevendraSingh" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi+👋,+I'm+Devendra+Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
  <div align="center" >
 <!--  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=800&lines=Software+Development+Engineer+in+Test+(SDET)"/> -->
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=250&lines=Anspiring+SDET"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=250&lines=Aspiring+SDET"/>
 </div>
  
 <!-- ## 💫 About Me: </h4> -->
