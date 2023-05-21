@@ -49,7 +49,7 @@
 <!--  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"/></code> -->
 <!--   <code><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="mysql" /></code> -->
 <!--  </br></br> -->
- <code><img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="cypress" width="40"/></code>
+ <code><img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" alt="cypress" width="40"/></code>
  <code><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="40" /></code>
  <code><img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" /></code>
  <code><img src="https://w7.pngwing.com/pngs/782/363/png-transparent-appium-hd-logo-thumbnail.png" alt="Appium" width="40" /></code>
