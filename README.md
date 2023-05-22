@@ -15,7 +15,7 @@
 - 👨‍💻  Want to know more about **me/my projects** visit at <a href="https://devendra684.github.io/"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
 <!-- - [https://devendra684.github.io](https://devendra684.github.io) -->
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"  align="center"/> Ask me about **Javascript, Manual Testing, Cypress, Potman, Selenium, Appium.** I am happy to help.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"  align="center"/> Ask me about **Javascript, Manual Testing, Cypress, PostMan, Selenium, Appium.** I am happy to help.
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Reach me on **devendra.singh248124@gmail.com**
 - <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://drive.google.com/file/d/1feeFeZZ5UZhCp0lsoRfrPLF3l1XfL-Tw/view?usp=share_link" rel="nofollow">Resume</a></p>
