@@ -108,10 +108,17 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devendra684"/>
  </a>
  </p>
- 
+<!--  
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/devendra684/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=devendra684" alt="devendra684" width="80%"/>
+  </a> 
+</p> -->
+
+<p align="center"> 
+  <a href="https://github.com/devendra684/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=devendra684" alt="devendra684" width="80%"/>
+
   </a> 
 </p>
 
