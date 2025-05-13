@@ -1,7 +1,7 @@
 <img width=100% title="Devendra Singh" id="top" alt="DevendraSingh" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi+👋,+I'm+Devendra+Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
  <div align="center" >
 <!--  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=800&lines=Software+Development+Engineer+in+Test+(SDET)"/> -->
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=250&lines=Aspiring+SDET"/>
+<!--  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=250&lines=Aspiring+SDET"/> -->
 </div>
  
 <!-- ## 💫 About Me: </h4> -->
@@ -15,7 +15,7 @@
 - 👨‍💻  Want to know more about **me/my projects** visit at <a href="https://devendra684.github.io/"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
 <!-- - [https://devendra684.github.io](https://devendra684.github.io) -->
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"  align="center"/> Ask me about **Javascript, Manual Testing, Cypress, PostMan, Selenium, Appium.** I am happy to help.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"  align="center"/> Ask me about **Manual Testing, Automation Testing, API Testing, Cypress, PostMan, Selenium, Appium.** I am happy to help.
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Reach me on **devendra.singh248124@gmail.com**
 - <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://drive.google.com/file/d/1feeFeZZ5UZhCp0lsoRfrPLF3l1XfL-Tw/view?usp=share_link" rel="nofollow">Resume</a></p>
@@ -26,17 +26,18 @@
 
 
 <h4 align="left" ><br>
-  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> 
- Languages | Tools 
- <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+<!--   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>  -->
+<!--  Languages |  -->
+Tools 
+<!--  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> -->
  </h4>
 
 
 <div align="left" >
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code> 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code> 
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code> 
-<code><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="40" /></code>
+<!--  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>  -->
+<!-- <code><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="40" /></code> -->
 <!--  <code><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="40" /></code> -->
 <!--  <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40"/></code>  -->
 <!--  <code><img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="chakra-ui" width="40" /></code> -->
@@ -63,8 +64,8 @@
  <code><img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" width="40" /></code> -->
 <!--  </br></br> -->
  <code><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" width="40" /></code>
- <code><img src="https://techstack.boltcode.io/wp-content/uploads/2022/12/8k044akj7cl7kfdh-JmeterPlugins_140px@2x.png" alt="JMeter" width="40" /></code>
- <code><img src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" alt="Burpsuite" width="40" /></code>
+<!--  <code><img src="https://techstack.boltcode.io/wp-content/uploads/2022/12/8k044akj7cl7kfdh-JmeterPlugins_140px@2x.png" alt="JMeter" width="40" /></code> -->
+<!--  <code><img src="https://cdn.icon-icons.com/icons2/1735/PNG/512/burpsuite_113238.png" alt="Burpsuite" width="40" /></code> -->
  <code><img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" width="40" /></code>
  <code><img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" width="40" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" alt="GitHub" /></code>
