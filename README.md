@@ -70,9 +70,9 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div align="center" width=80%">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=devendra684" alt="devendra684" width="100%"/>
+    <img src="https://github-trophies.vercel.app/?username=devendra684" alt="devendra684"/>
   </a>
 </div>
 
