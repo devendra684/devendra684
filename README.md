@@ -67,27 +67,17 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devendra684&show_icons=true&theme=radical&rank_icon=github&display_format=white" alt="devendra684" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devendra684&show_icons=true&locale=en&layout=compact&theme=radical" alt="devendra684" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devendra684&show_icons=true&theme=radical&rank_icon=github&display_format=white" alt="devendra684" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devendra684&show_icons=true&locale=en&layout=compact&theme=radical" alt="devendra684" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=devendra684&theme=radical" alt="devendra684" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendra684&theme=radical" alt="devendra684" width="97%" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devendra684&label=Profile+Views&color=6AD3F7&style=flat-square" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/devendra684?label=Followers&style=flat-square&color=6AD3F7" alt="Followers" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devendra684&theme=radical&no-frame=true&margin-w=15" alt="devendra684" width="100%"/>
-  </a>
 </div>
 
 <br/>
